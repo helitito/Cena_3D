@@ -34,5 +34,5 @@ Devido à política de segurança (CORS) dos navegadores modernos para módulos 
     ```bash
     # No diretório do projeto, execute:
     python -m http.server 8000
-    Acesse no navegador: `http://localhost:8000`
+   Acesse no navegador: `http://localhost:8000`
 
