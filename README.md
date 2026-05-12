@@ -1,6 +1,7 @@
 # Atividade Prática: Visualizador 3D com Three.js
 
-Este projeto é uma aplicação web interativa que utiliza a biblioteca **Three.js** para renderizar e manipular modelos 3D carregados via **Sketchfab**. A atividade faz parte dos requisitos da disciplina de [Nome da Disciplina].
+Este projeto é uma aplicação web interativa que utiliza a biblioteca **Three.js** para renderizar e manipular modelos 3D carregados via **Sketchfab**. A atividade faz parte dos requisitos da disciplina de Computação Gráfica
+.
 
 ## 🚀 Funcionalidades Implementadas
 *   **Carregamento de Modelo 3D**: Uso do `GLTFLoader` para processar arquivos no formato `.glb`.
